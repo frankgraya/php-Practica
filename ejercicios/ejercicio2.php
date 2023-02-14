@@ -2,7 +2,7 @@
 //Recibi informacion del Formilario HTML (METODO POST)
 
         $nombre = $_POST['txtNombre'];
-        echo $nombre;f
+        echo $nombre;
 
     ?>
 
